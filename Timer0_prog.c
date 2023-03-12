@@ -4,7 +4,7 @@
  * Created: 3/12/2023 4:51:44 AM
  *  Author: sata
  */ 
-#include "TIMER2_int.h"
+#include "Timer0_int.h"
 
 /****************************************************************/
 /*********************** Function Implementation  ***************/
